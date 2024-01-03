@@ -1,0 +1,43 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section class="section-gallery">
+        <h1 class="title">My Gallery</h1>
+
+        <div class="button-container">
+            <button onclick="filterImages('all')">All</button>
+            <button onclick="filterImages('proyectos')">Proyectos</button>
+            <button onclick="filterImages('articulos')">Articulos</button>
+            <button onclick="filterImages('diario-mk')">Diario-MK</button>
+            <!-- <button onclick="filterImages('ico')">.ico</button> -->
+            <!-- Agrega botones para otras categorías -->
+        </div>
+
+        <div class="gallery" id="imageGallery">
+            <!-- La galería se generará dinámicamente aquí -->
+        </div>
+
+        <footer class="footer">
+            <p>2024 My Gallery</p>
+            <p>Creador de la web: <a href="https://www.tusitio.com" target="_blank">Esteban Oller</a>.</p>
+        </footer>
+
+    </section>
+
+    <script src="galery.js"></script>
+
+</body>
+
+</html>
