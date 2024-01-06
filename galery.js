@@ -26,6 +26,12 @@ document.addEventListener("DOMContentLoaded", function () {
         { url: 'public/img/articulos/Ubuntu Informe.png', category: 'articulos' },
         /** FIN  **/
 
+        /** NODE **/
+        { url: 'public/img/diario-mk/node/node.jpg', category: 'articulos' },
+        /** FIN  **/
+
+
+
         /** DIARIO-MK **/
 
         //Ejecucion de Scripts
