@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { url: 'public/img/diario-mk/peacock/3.jpg', category: 'articulos' },
         { url: 'public/img/diario-mk/peacock/3.5.jpg', category: 'articulos' },
         { url: 'public/img/diario-mk/peacock/4.jpg', category: 'articulos' },
-        { url: 'public/img/diario-mk/peacock/Screenshot 2024-01-06 211005.jpg', category: 'articulos' },
+        { url: 'public/img/diario-mk/peacock/5.jpg', category: 'articulos' },
         /** FIN  **/
 
         /** DIARIO-MK **/
