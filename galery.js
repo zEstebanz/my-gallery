@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { url: 'public/img/projectos/12.png', category: 'proyectos' },
         { url: 'public/img/projectos/13.png', category: 'proyectos' },
         { url: 'public/img/projectos/14.png', category: 'proyectos' },
+        { url: 'public/img/projectos/15.png', category: 'proyectos' },
         /** FIN **/
 
         /** ARTICULOS **/
